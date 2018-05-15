@@ -1,0 +1,5 @@
+
+echo "OMI is unstaging..."
+git reset HEAD .
+sleep 1
+echo "Nothing to cOMIt :("
